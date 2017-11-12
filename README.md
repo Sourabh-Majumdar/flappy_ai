@@ -8,4 +8,13 @@ Python 3.5 or higher
 
 # Running the Script 
 
-change the directory to flappy_ai/ (cd flappy_ai) and run the file flappy.py 
+clone the directory by typing "git clone https://github.com/Sourabh-Majumdar/flappy_ai"
+move inside the directorry by typing "cd flappy_ai"
+## To run the genetic algorithm 
+  type :
+  python flappy_ga.py
+  
+## To run the Particle Swarm Optimization file
+  type 
+  python flappy_pso.py
+  
