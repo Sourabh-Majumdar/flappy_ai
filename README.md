@@ -1,6 +1,6 @@
-# flappy_ai
+# Game Agents
 
-It train a neural network to play flappy bird using the concept of genetic algorithm and measuring the convergence of maximum and average fitness over all the generations
+It train a neural network to play flappy bird using the concept of genetic algorithm and measuring the convergence of maximum and average fitness over all the generations. This is an independent project completed in Semester 1 (2017-2018).
 
 # Requirements
 
